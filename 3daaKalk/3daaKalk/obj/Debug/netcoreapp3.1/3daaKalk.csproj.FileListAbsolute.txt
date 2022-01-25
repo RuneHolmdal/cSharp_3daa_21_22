@@ -1,0 +1,15 @@
+C:\Users\rholm\source\repos\3daaKalk\3daaKalk\bin\Debug\netcoreapp3.1\3daaKalk.exe
+C:\Users\rholm\source\repos\3daaKalk\3daaKalk\bin\Debug\netcoreapp3.1\3daaKalk.deps.json
+C:\Users\rholm\source\repos\3daaKalk\3daaKalk\bin\Debug\netcoreapp3.1\3daaKalk.runtimeconfig.json
+C:\Users\rholm\source\repos\3daaKalk\3daaKalk\bin\Debug\netcoreapp3.1\3daaKalk.runtimeconfig.dev.json
+C:\Users\rholm\source\repos\3daaKalk\3daaKalk\bin\Debug\netcoreapp3.1\3daaKalk.dll
+C:\Users\rholm\source\repos\3daaKalk\3daaKalk\bin\Debug\netcoreapp3.1\3daaKalk.pdb
+C:\Users\rholm\source\repos\3daaKalk\3daaKalk\obj\Debug\netcoreapp3.1\3daaKalk.csprojAssemblyReference.cache
+C:\Users\rholm\source\repos\3daaKalk\3daaKalk\obj\Debug\netcoreapp3.1\_3daaKalk.Form1.resources
+C:\Users\rholm\source\repos\3daaKalk\3daaKalk\obj\Debug\netcoreapp3.1\3daaKalk.csproj.GenerateResource.cache
+C:\Users\rholm\source\repos\3daaKalk\3daaKalk\obj\Debug\netcoreapp3.1\3daaKalk.AssemblyInfoInputs.cache
+C:\Users\rholm\source\repos\3daaKalk\3daaKalk\obj\Debug\netcoreapp3.1\3daaKalk.AssemblyInfo.cs
+C:\Users\rholm\source\repos\3daaKalk\3daaKalk\obj\Debug\netcoreapp3.1\3daaKalk.csproj.CoreCompileInputs.cache
+C:\Users\rholm\source\repos\3daaKalk\3daaKalk\obj\Debug\netcoreapp3.1\3daaKalk.dll
+C:\Users\rholm\source\repos\3daaKalk\3daaKalk\obj\Debug\netcoreapp3.1\3daaKalk.pdb
+C:\Users\rholm\source\repos\3daaKalk\3daaKalk\obj\Debug\netcoreapp3.1\3daaKalk.genruntimeconfig.cache
