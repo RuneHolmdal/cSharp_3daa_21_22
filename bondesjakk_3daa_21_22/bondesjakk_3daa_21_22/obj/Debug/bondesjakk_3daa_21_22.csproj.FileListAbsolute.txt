@@ -1,0 +1,10 @@
+C:\Users\rholm\source\repos\bondesjakk_3daa_21_22\bondesjakk_3daa_21_22\bin\Debug\bondesjakk_3daa_21_22.exe.config
+C:\Users\rholm\source\repos\bondesjakk_3daa_21_22\bondesjakk_3daa_21_22\bin\Debug\bondesjakk_3daa_21_22.exe
+C:\Users\rholm\source\repos\bondesjakk_3daa_21_22\bondesjakk_3daa_21_22\bin\Debug\bondesjakk_3daa_21_22.pdb
+C:\Users\rholm\source\repos\bondesjakk_3daa_21_22\bondesjakk_3daa_21_22\obj\Debug\bondesjakk_3daa_21_22.csprojAssemblyReference.cache
+C:\Users\rholm\source\repos\bondesjakk_3daa_21_22\bondesjakk_3daa_21_22\obj\Debug\bondesjakk_3daa_21_22.Form1.resources
+C:\Users\rholm\source\repos\bondesjakk_3daa_21_22\bondesjakk_3daa_21_22\obj\Debug\bondesjakk_3daa_21_22.Properties.Resources.resources
+C:\Users\rholm\source\repos\bondesjakk_3daa_21_22\bondesjakk_3daa_21_22\obj\Debug\bondesjakk_3daa_21_22.csproj.GenerateResource.cache
+C:\Users\rholm\source\repos\bondesjakk_3daa_21_22\bondesjakk_3daa_21_22\obj\Debug\bondesjakk_3daa_21_22.csproj.CoreCompileInputs.cache
+C:\Users\rholm\source\repos\bondesjakk_3daa_21_22\bondesjakk_3daa_21_22\obj\Debug\bondesjakk_3daa_21_22.exe
+C:\Users\rholm\source\repos\bondesjakk_3daa_21_22\bondesjakk_3daa_21_22\obj\Debug\bondesjakk_3daa_21_22.pdb
